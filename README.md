@@ -2,4 +2,4 @@
 
 ## Hi there 👋
 
-I am a 3rd Year undergraduate at the University of Leeds with an interest in high performance graphics and high performance computing in general.
+I am a 3rd Year undergraduate at the University of Leeds with an interest in computer graphics and high performance computing.
