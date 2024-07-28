@@ -2,4 +2,4 @@
 
 ## Hi there 👋
 
-I am a 3rd Year undergraduate at the University of Leeds with an interest in computer graphics and high performance computing.
+Graduate of the University of Leeds with a BSc in Computer Science, specialising in computer graphics and high-performance computing.
